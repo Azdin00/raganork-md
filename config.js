@@ -20,7 +20,7 @@ module.exports = {
     BOT_INFO: process.env.BOT_INFO || 'Anya;5az_00;2120713075515;https://user-images.githubusercontent.com/106471990/170865439-1383396c-9790-4afd-a7ab-9a8b8ccd40d4.jpg',
     RBG_KEY: process.env.RBG_KEY || '',
     ALLOWED: process.env.ALLOWED || '91,94',
-    CHATBOT: process.env.CHATBOT || 'off',
+    CHATBOT: process.env.CHATBOT || 'on',
     HANDLERS: process.env.HANDLERS || '.,',
     STICKER_DATA: process.env.STICKER_DATA,
     BOT_NAME: process.env.BOT_NAME || 'Anya',
