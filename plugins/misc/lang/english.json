@@ -98,14 +98,14 @@
             "KEY_VAL_MISSING": "إما المفتاح أو القيمة مفقود",
             "INVALID": "مفتاح غير صالح: تنسيق القيمة",
             "GETVAR_DESC": "احصل على heroku config var",
-            "DELVAR_DESC": "Delete heroku config var",
-            "DEL_SUCCESS": "{} successfully deleted",
-            "ALLVAR_DESC":"Gives all your heroku config vars",
-            "ALL_VARS":"All your config vars",
-            "NOT_FOUND": "No results found for this key"
+            "DELVAR_DESC": "حذف heroku config var",
+            "DEL_SUCCESS": "{} تم الحذف بنجاح",
+            "ALLVAR_DESC":"يعطي كل ما تبذلونه من vars التكوين heroku",
+            "ALL_VARS":"كل ما تبذلونه من vars التكوين",
+            "NOT_FOUND": "لا توجد نتائج لهذا المفتاح"
         },
         "filters": {
-            "FILTER_DESC": "It adds a filter. If someone writes your filter, it send the answer. If you just write .filter, it show's your filter list.",
+            "FILTER_DESC": "يضيف مرشح. If someone writes your filter, it send the answer. If you just write .filter, it show's your filter list.",
             "NO_FILTER": "لا توجد مرشحات في هذه الدردشة",
             "FILTERS": "🔎 عوامل التصفية الخاصة بك في هذه الدردشة:",
             "NEED_REPLY": "❌ الرجاء كتابة الرد!*\n*مثال:",
@@ -116,15 +116,15 @@
             "DELETED": "✅ تم حذف الفلتر بنجاح!"
          } ،
         "greetings": {
-            "WELCOME_DESC": "It sets the welcome message. If you leave it blank it shows the welcome message.",
-            "NOT_SET_WELCOME": "You don't set the welcome message yet.!*\n**To set:** _.welcome your welcome message",
-            "WELCOME_ALREADY_SETTED": "✅ Welcome message already set!*\n*Message:* ",
-            "NEED_WELCOME_TEXT": "Need a welcome message.*\n*Example:* _.welcome WELCOME!",
-            "WELCOME_DELETED": "✅ Welcome message deactivated !",
-            "WELCOME_SETTED": "✅ Welcome messages set",
-            "GOODBYE_DESC": "Sets the goodbye message. If you leave blank, it show's the goodbye message.",
-            "NOT_SET_GOODBYE": "You didn't set a goodbye message!*\n*To set:* _.goodbye Your Goodbye Message",
-            "GOODBYE_ALREADY_SETTED": "✅ Goodbye message has been set!*\n*Message:* ",
+            "WELCOME_DESC": "يحدد رسالة الترحيب. إذا تركته فارغًا ، فستظهر رسالة الترحيب.",
+            "NOT_SET_WELCOME": "لم تقم بتعيين رسالة الترحيب بعد.!*\n**لتعيين:** _.نرحب برسالتك الترحيبية",
+            "WELCOME_ALREADY_SETTED": "✅ تم تعيين رسالة الترحيب بالفعل!*\n*رسالة:* ",
+            "NEED_WELCOME_TEXT": "بحاجة الى رسالة ترحيب.*\n*مثال:* _.اهلا اهلا!",
+            "WELCOME_DELETED": "✅ تم تعطيل رسالة الترحيب !",
+            "WELCOME_SETTED": "✅ تعيين رسائل الترحيب",
+            "GOODBYE_DESC": "يضبط رسالة الوداع. إذا تركت فارغة, إنها تظهر رسالة الوداع.",
+            "NOT_SET_GOODBYE": "لم تقم بتعيين رسالة وداع!*\n*To set:* _.وداعا رسالتك الوداع",
+            "GOODBYE_ALREADY_SETTED": "✅ تم تعيين رسالة الوداع!*\n*رسالة:* ",
             "NEED_GOODBYE_TEXT": "You must write a message to set up the goodbye message.*\n*Example:* _.goodbye Goodbye!",
             "GOODBYE_DELETED": "✅ Goodbye message has been deleted successfully!",
             "GOODBYE_SETTED": "✅ Goodbye message has been setted successfully!"
